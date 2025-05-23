@@ -343,4 +343,4 @@ async def play(ctx, *, query):
 
 # Start the Flask server and run the bot
 keep_alive()
-bot.run('MTM2Mjg4NDc4MzU4MzI2ODk5NQ.G1L-nW.go3K6A0L34M3k0Qy4Aoumi7j5ONJHfIc-agol8')  # Replace with your actual bot token
+bot.run('MTM2Mjg4NDc4MzU4MzI2ODk5NQ.GF4tGi.YrnAFIkJsP3Iz7cUA9bRRg3O_QcdyhsbMPwbwg')  # Replace with your actual bot token
